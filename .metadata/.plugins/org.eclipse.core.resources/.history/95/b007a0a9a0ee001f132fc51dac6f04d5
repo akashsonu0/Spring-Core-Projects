@@ -1,0 +1,27 @@
+package in.pwskills.akash;
+
+import org.springframework.context.ApplicationContext;
+
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
+
+import in.pwskills.akash.bean.WishMessageGenerator;
+import in.pwskills.akash.config.AppConfig;
+
+public class TestApp {
+	public static void main(String[] args) {
+		
+		//starting the container
+		ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
+		
+		//Working with Bean created by IOC
+		WishMessageGenerator obj1 = context.getBean("wmg1",WishMessageGenerator.class);
+		WishMessageGenerator obj2 = context.getBean("wmg2",WishMessageGenerator.class);
+		System.out.println(obj1.hashCode() +" -- "+ obj2.hashCode());
+		System.out.println("obj1==obj2 ? "+(obj1==obj2));
+		//close the container
+		((AbstractApplicationContext) context).close();
+
+	}
+}

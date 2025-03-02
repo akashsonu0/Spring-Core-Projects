@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="org.springframework.util.FileSystemUtils"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.protocol.x.SyncFlushDeflaterOutputStream"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.CustomerVo"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.CustomerDTO"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.CustomerBO"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.Printer"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.CricketBat"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
+</qualifiedTypeNameHistroy>

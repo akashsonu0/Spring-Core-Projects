@@ -1,0 +1,16 @@
+package in.pwskills.akash.controller;
+
+import org.springframework.stereotype.Component;
+
+import in.pwskills.akash.bean.CustomerVo;
+
+@Component
+public final class CustomerController {
+
+	public String processCustomer(CustomerVo vo) throws Exception
+	{
+		
+		return null;
+ }
+
+}

@@ -1,0 +1,8 @@
+package in.pwskills.akash.dao;
+
+import org.springframework.stereotype.Component;
+
+@Component("mysqlDao")
+public class EmployeeMySQLDaoImpl implements IEmployeeDao {
+
+}

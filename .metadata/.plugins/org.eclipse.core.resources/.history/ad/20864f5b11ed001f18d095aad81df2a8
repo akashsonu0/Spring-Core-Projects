@@ -1,0 +1,11 @@
+package in.pwskills.akash.beans;
+
+public class Dtdc implements ICourier {
+
+	@Override
+	public String deliver(int oid) {
+		
+		return null;
+	}
+
+}

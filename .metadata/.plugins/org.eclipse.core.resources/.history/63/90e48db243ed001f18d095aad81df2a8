@@ -1,0 +1,6 @@
+info.emp.eid= 10
+info.emp.ename=sachin
+info.emp.eage=51
+info.emp.friends=sachin,saurav,dravid
+info.emp.number =777888999, 999888777, 555666777
+info.emp.accountNumber = {sbi:'222333',canara:'111222'}

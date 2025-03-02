@@ -1,0 +1,13 @@
+package in.pwskills.akash.dao;
+
+import in.pwskills.akash.bean.CustomerBO;
+
+public class CustomerDaoImpl implements ICustomerDao {
+
+	@Override
+	public int insert(CustomerBO bo) throws Exception {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

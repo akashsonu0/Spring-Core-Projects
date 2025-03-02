@@ -1,0 +1,22 @@
+package in.pwskills.akash.config;
+import org.springframework.context.annotation.ComponentScan;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+
+@Configuration
+@ComponentScan(basePackages = "in.pwskills.akash")
+@PropertySource("application.properties")
+public class AppConfig {
+	
+	
+	static {
+		System.out.println("AppConfig.class file is loading...");
+	}
+
+	public AppConfig() {
+		System.out.println("AppConfig object is created...");
+	}
+
+ }
+

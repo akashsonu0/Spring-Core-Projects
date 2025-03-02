@@ -1,0 +1,45 @@
+package in.pwskills.akash.bean;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Lookup;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+@Component
+@Scope("singleton")
+public  class Flipkart {
+	
+	static {
+		System.out.println("Flipkart.class file is loading...");
+	}
+	
+	public Flipkart() {
+		System.out.println("Flipkart object is creted..."+this.hashCode());
+	}
+	
+	@Autowired
+	@Qualifier("dtdc")
+	private ICourier courier;
+	
+	public ICourier getCourier() {
+		return courier;
+	}
+
+	public void setCourier(ICourier courier) {
+		courier = getCourierObj();
+		this.courier = courier;
+	}
+	
+	@Lookup
+	public  ICourier getCourierObj() {
+		return null;
+	}
+
+	@Override
+	public String toString() {
+		return "Flipkart [courier=" + courier + "]";
+	}
+	
+	
+}

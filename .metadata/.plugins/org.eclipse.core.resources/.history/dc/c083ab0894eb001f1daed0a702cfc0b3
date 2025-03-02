@@ -1,0 +1,11 @@
+package in.pwskills.akash.bean;
+
+public class Ekart implements ICourier {
+
+	@Override
+	public String deliverOrder(Integer oid) {
+		
+		return null;
+	}
+
+}

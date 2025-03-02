@@ -1,0 +1,15 @@
+package in.pwskills.akash.service;
+
+import org.springframework.stereotype.Component;
+
+import in.pwskills.akash.bean.CustomerDTO;
+@Component
+public final class CustomerServiceImpl implements ICustomerService {
+	
+    @Override
+	public String calculateSimpleInterset(CustomerDTO dto) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

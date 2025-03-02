@@ -1,0 +1,33 @@
+package in.pwskills.akash.bean;
+
+import java.io.Serializable;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class Employee implements Serializable {
+		/**
+		 * 
+		 */
+		private static final long serialVersionUID = 1L;
+	
+		static {
+			System.out.println("Employee.class file is loading..."); 
+			
+		}
+		
+		public Employee() {
+			System.out.println("Employee Object created :: Zero param...");
+		}
+		
+		private Integer eid;
+		private String ename;
+		private Float eage;
+		
+		@Override
+		public String toString() {
+			return "Employee [eid=" + eid + ", ename=" + ename + ", eage=" + eage + "]";
+		}
+		
+	}
+
