@@ -1,5 +1,0 @@
-package in.pwskills.akash.service;
-
-public interface ICustomerService {
-
-}

@@ -1,5 +1,0 @@
-package in.pwskills.akash.dao;
-
-public class EmployeeMySQLDaoImpl implements IEmployeeDao {
-
-}
