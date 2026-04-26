@@ -94,3 +94,152 @@
 2025-03-02 14:59:45,668 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringJavaConfig-App:1.1 @ D:\OctBatchMicroservices\Spring\13-SpringJavaConfigApp-Scope\pom.xml.
 2025-03-02 14:59:45,720 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringJavaConfig-App:1.1 @ D:\OctBatchMicroservices\Spring\09-SpringRealTimeDI-App\pom.xml.
 2025-03-02 15:16:58,547 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-02 15:23:10,119 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-26 20:31:25,873 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-08-26 20:31:28,931 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:28,931 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\01-SpringJavaConfigApp-referenceType\src\main\resources
+2025-08-26 20:31:28,934 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:28,934 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\01-SpringJavaConfigApp-referenceType\src\test\resources
+2025-08-26 20:31:29,401 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,401 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\02-SpringJavaConfigApp-referenceType[HAS-A]\src\main\resources
+2025-08-26 20:31:29,403 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,403 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\02-SpringJavaConfigApp-referenceType[HAS-A]\src\test\resources
+2025-08-26 20:31:29,533 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,533 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\03-SpringJavaConfigApp-referenceType[HAS-A-CollectionType]\src\main\resources
+2025-08-26 20:31:29,535 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,535 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\03-SpringJavaConfigApp-referenceType[HAS-A-CollectionType]\src\test\resources
+2025-08-26 20:31:29,682 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,682 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\04-SpringAnnotationConfig-FieldInjection\src\main\resources
+2025-08-26 20:31:29,684 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,684 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\04-SpringAnnotationConfig-FieldInjection\src\test\resources
+2025-08-26 20:31:29,804 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,804 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\05-SpringAnnotationConfig-FieldInjection[ReferenceeType]\src\main\resources
+2025-08-26 20:31:29,806 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,806 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\05-SpringAnnotationConfig-FieldInjection[ReferenceeType]\src\test\resources
+2025-08-26 20:31:29,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\06-SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]\src\main\resources
+2025-08-26 20:31:29,922 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:29,922 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\06-SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]\src\test\resources
+2025-08-26 20:31:30,127 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,127 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\07-SpringAnnotationConfig-FieldInjection[ReferenceeType-PreDefined]\src\main\resources
+2025-08-26 20:31:30,129 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,129 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\07-SpringAnnotationConfig-FieldInjection[ReferenceeType-PreDefined]\src\test\resources
+2025-08-26 20:31:30,310 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,310 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\08-SpringAnnotationConfig-FieldInjection\src\main\resources
+2025-08-26 20:31:30,312 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,312 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\08-SpringAnnotationConfig-FieldInjection\src\test\resources
+2025-08-26 20:31:30,472 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,472 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\09-SpringRealTimeDI-App\src\main\resources
+2025-08-26 20:31:30,474 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,474 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\09-SpringRealTimeDI-App\src\test\resources
+2025-08-26 20:31:30,577 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,577 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\10-SpringAnnotationConfig-LifeCycleApp\src\main\resources
+2025-08-26 20:31:30,579 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,579 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\10-SpringAnnotationConfig-LifeCycleApp\src\test\resources
+2025-08-26 20:31:30,671 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,671 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\11-SpringAnnotationConfig-SPELEX\src\main\resources
+2025-08-26 20:31:30,672 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,672 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\11-SpringAnnotationConfig-SPELEX\src\test\resources
+2025-08-26 20:31:30,750 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,751 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\12-SpringAnnotationConfig-FieldInjection-SPEL\src\main\resources
+2025-08-26 20:31:30,752 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,752 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\12-SpringAnnotationConfig-FieldInjection-SPEL\src\test\resources
+2025-08-26 20:31:30,856 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,856 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\13-SpringJavaConfigApp-Scope\src\main\resources
+2025-08-26 20:31:30,858 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,858 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\13-SpringJavaConfigApp-Scope\src\test\resources
+2025-08-26 20:31:30,941 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,941 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\14-SpringAnnotationConfig-ScopeProblem\src\main\resources
+2025-08-26 20:31:30,942 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:30,942 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\14-SpringAnnotationConfig-ScopeProblem\src\test\resources
+2025-08-26 20:31:31,021 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,021 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\15-SpringAnnotationConfig-DL\src\main\resources
+2025-08-26 20:31:31,023 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,023 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\15-SpringAnnotationConfig-DL\src\test\resources
+2025-08-26 20:31:31,096 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,096 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\16-SpringAnnotationConfig-MethodReplacer\src\main\resources
+2025-08-26 20:31:31,097 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,097 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\16-SpringAnnotationConfig-MethodReplacer\src\test\resources
+2025-08-26 20:31:31,174 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,174 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\17-SpringAnnotationConfig-SchedulingApp\src\main\resources
+2025-08-26 20:31:31,176 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,176 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\17-SpringAnnotationConfig-SchedulingApp\src\test\resources
+2025-08-26 20:31:31,241 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,241 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\18-SpringAnnotationConfig-Cron-SchedulingApp\src\main\resources
+2025-08-26 20:31:31,242 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-08-26 20:31:31,242 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\18-SpringAnnotationConfig-Cron-SchedulingApp\src\test\resources
+2025-08-27 17:18:39,385 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-04-25 10:50:27,656 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-25 11:04:30,483 [Worker-6: Launching TestApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:30,485 [Worker-6: Launching TestApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\01-SpringJavaConfigApp-referenceType\src\main\resources
+2026-04-25 11:04:30,489 [Worker-6: Launching TestApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:30,489 [Worker-6: Launching TestApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\01-SpringJavaConfigApp-referenceType\src\test\resources
+2026-04-25 11:04:31,000 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,000 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\02-SpringJavaConfigApp-referenceType[HAS-A]\src\main\resources
+2026-04-25 11:04:31,003 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,003 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\02-SpringJavaConfigApp-referenceType[HAS-A]\src\test\resources
+2026-04-25 11:04:31,126 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,126 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\03-SpringJavaConfigApp-referenceType[HAS-A-CollectionType]\src\main\resources
+2026-04-25 11:04:31,129 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,129 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\03-SpringJavaConfigApp-referenceType[HAS-A-CollectionType]\src\test\resources
+2026-04-25 11:04:31,256 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,256 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\04-SpringAnnotationConfig-FieldInjection\src\main\resources
+2026-04-25 11:04:31,257 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,258 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\04-SpringAnnotationConfig-FieldInjection\src\test\resources
+2026-04-25 11:04:31,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\05-SpringAnnotationConfig-FieldInjection[ReferenceeType]\src\main\resources
+2026-04-25 11:04:31,402 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,402 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\05-SpringAnnotationConfig-FieldInjection[ReferenceeType]\src\test\resources
+2026-04-25 11:04:31,529 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,530 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\06-SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]\src\main\resources
+2026-04-25 11:04:31,531 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,531 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\06-SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]\src\test\resources
+2026-04-25 11:04:31,706 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,706 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\07-SpringAnnotationConfig-FieldInjection[ReferenceeType-PreDefined]\src\main\resources
+2026-04-25 11:04:31,708 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,708 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\07-SpringAnnotationConfig-FieldInjection[ReferenceeType-PreDefined]\src\test\resources
+2026-04-25 11:04:31,843 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,843 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\08-SpringAnnotationConfig-FieldInjection\src\main\resources
+2026-04-25 11:04:31,845 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:31,845 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\08-SpringAnnotationConfig-FieldInjection\src\test\resources
+2026-04-25 11:04:32,006 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,006 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\09-SpringRealTimeDI-App\src\main\resources
+2026-04-25 11:04:32,007 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,008 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\09-SpringRealTimeDI-App\src\test\resources
+2026-04-25 11:04:32,127 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,128 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\10-SpringAnnotationConfig-LifeCycleApp\src\main\resources
+2026-04-25 11:04:32,130 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,130 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\10-SpringAnnotationConfig-LifeCycleApp\src\test\resources
+2026-04-25 11:04:32,221 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,221 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\11-SpringAnnotationConfig-SPELEX\src\main\resources
+2026-04-25 11:04:32,222 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,222 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\11-SpringAnnotationConfig-SPELEX\src\test\resources
+2026-04-25 11:04:32,302 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,302 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\12-SpringAnnotationConfig-FieldInjection-SPEL\src\main\resources
+2026-04-25 11:04:32,304 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,304 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\12-SpringAnnotationConfig-FieldInjection-SPEL\src\test\resources
+2026-04-25 11:04:32,400 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,401 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\13-SpringJavaConfigApp-Scope\src\main\resources
+2026-04-25 11:04:32,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\13-SpringJavaConfigApp-Scope\src\test\resources
+2026-04-25 11:04:32,492 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,493 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\14-SpringAnnotationConfig-ScopeProblem\src\main\resources
+2026-04-25 11:04:32,495 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,495 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\14-SpringAnnotationConfig-ScopeProblem\src\test\resources
+2026-04-25 11:04:32,616 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,616 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\15-SpringAnnotationConfig-DL\src\main\resources
+2026-04-25 11:04:32,619 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,619 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\15-SpringAnnotationConfig-DL\src\test\resources
+2026-04-25 11:04:32,708 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,709 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\16-SpringAnnotationConfig-MethodReplacer\src\main\resources
+2026-04-25 11:04:32,711 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,711 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\16-SpringAnnotationConfig-MethodReplacer\src\test\resources
+2026-04-25 11:04:32,791 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,791 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\17-SpringAnnotationConfig-SchedulingApp\src\main\resources
+2026-04-25 11:04:32,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\17-SpringAnnotationConfig-SchedulingApp\src\test\resources
+2026-04-25 11:04:32,864 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,864 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\18-SpringAnnotationConfig-Cron-SchedulingApp\src\main\resources
+2026-04-25 11:04:32,865 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-25 11:04:32,865 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OctBatchMicroservices\Spring\18-SpringAnnotationConfig-Cron-SchedulingApp\src\test\resources
+2026-04-26 09:43:21,443 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
