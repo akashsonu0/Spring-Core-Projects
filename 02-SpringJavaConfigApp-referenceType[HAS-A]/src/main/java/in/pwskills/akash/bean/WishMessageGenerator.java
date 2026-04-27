@@ -47,6 +47,5 @@ public class WishMessageGenerator {
 	@Override
 	public String toString() {
 		return "WishMessageGenerator [ldt=" + ldt + "]";
-	}
-	
+	}	
 }
