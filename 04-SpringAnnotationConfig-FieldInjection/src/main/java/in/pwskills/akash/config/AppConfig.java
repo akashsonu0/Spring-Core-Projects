@@ -13,6 +13,5 @@ public class AppConfig {
 		System.out.println("AppConfig object is created...");
 	}
 
-	
-	}
+}
 
