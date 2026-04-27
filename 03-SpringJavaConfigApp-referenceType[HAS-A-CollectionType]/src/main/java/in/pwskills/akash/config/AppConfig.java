@@ -31,5 +31,4 @@ public class AppConfig {
 		
 		return employee;
 	}
-
 }
