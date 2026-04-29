@@ -1,15 +1,10 @@
 package in.pwskills.akash.config;
 
 import java.time.LocalDateTime;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-
-import in.pwskills.akash.bean.Employee;
 
 
 @Configuration
@@ -21,7 +16,8 @@ public class AppConfig {
 	public AppConfig() {
 		System.out.println("AppConfig object is created...");
 	}
-		
-	
-	
+	@Bean(name="ldt")
+	public LocalDateTime dteObj() {
+		return LocalDateTime.now();
+	}
 }

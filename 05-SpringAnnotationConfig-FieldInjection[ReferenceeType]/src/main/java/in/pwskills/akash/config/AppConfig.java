@@ -17,7 +17,7 @@ public class AppConfig {
 		System.out.println("AppConfig object is created...");
 	}
 
-	@Bean(name="ldt")
+	@Bean
 	public LocalDateTime dtObj() {
 		return LocalDateTime.now();
 	}

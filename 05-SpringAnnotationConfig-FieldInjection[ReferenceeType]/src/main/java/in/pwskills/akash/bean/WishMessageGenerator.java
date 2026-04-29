@@ -22,7 +22,7 @@ public class WishMessageGenerator {
 	@Autowired
 	private LocalDateTime date;
 	
-
+	
 	//Business logic
 	public String wishMessage(String user) {
 		System.out.println("WishMessageGenerator.wishMessage()");
