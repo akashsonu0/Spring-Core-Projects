@@ -1,5 +1,6 @@
 package in.pwskills.akash.beans;
 
 public interface ICourier {
-	 	String deliver(int oid);
+	 	public String deliver(int oid);
+	 	
 	 	}
