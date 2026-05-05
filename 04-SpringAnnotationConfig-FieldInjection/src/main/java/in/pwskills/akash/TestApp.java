@@ -1,5 +1,4 @@
 package in.pwskills.akash;
-
 import org.springframework.context.ApplicationContext;
 
 
