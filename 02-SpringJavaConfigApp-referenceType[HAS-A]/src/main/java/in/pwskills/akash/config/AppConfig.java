@@ -1,5 +1,4 @@
 package in.pwskills.akash.config;
-
 import java.time.LocalDateTime;
 
 import org.springframework.context.annotation.Bean;
@@ -8,8 +7,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import in.pwskills.akash.bean.WishMessageGenerator;
-
-
 
 @Configuration
 public class AppConfig {
