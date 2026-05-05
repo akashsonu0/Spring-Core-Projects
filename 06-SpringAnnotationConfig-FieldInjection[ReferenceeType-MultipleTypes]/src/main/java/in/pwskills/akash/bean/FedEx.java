@@ -15,6 +15,5 @@ public class FedEx implements ICourier {
 	public String toString() {
 		return "FedEx []";
 	}
-
 	
 }
