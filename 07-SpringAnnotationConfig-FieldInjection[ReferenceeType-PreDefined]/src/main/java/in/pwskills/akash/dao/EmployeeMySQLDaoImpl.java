@@ -21,11 +21,11 @@ public class EmployeeMySQLDaoImpl implements IEmployeeDao {
 		try {
 			Connection connection = ds.getConnection();
 			Statement statement = connection.createStatement();
-			ResultSet resultSet = statement.executeQuery("select * from student where sid =1");
+			ResultSet resultSet = statement.executeQuery("select * from student where sid =2");
 			if(resultSet.next()) {
 				System.out.println(resultSet.getString(1) + "\t" + resultSet.getString(2) + "\t" + resultSet.getString(3) + "\t" + resultSet.getString(4));
 			}else {
-				System.out.println("Record not found for the is");
+				System.out.println("Record not found for the id");
 			  }
 			} catch (SQLException e) {
 				e.printStackTrace();
