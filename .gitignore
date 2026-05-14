@@ -1,4 +1,10 @@
-/.metadata/
-.metadata/
-target/
+# Maven build output
+**/target/
+
+# Eclipse / STS files
+**/.classpath
+**/.project
+**/.settings/
+
+# Logs
 *.log
