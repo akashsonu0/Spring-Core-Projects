@@ -8,3 +8,6 @@
 
 # Logs
 *.log
+
+# Eclipse workspace metadata
+.metadata/
