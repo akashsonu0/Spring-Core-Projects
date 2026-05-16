@@ -21,6 +21,5 @@ public class TestApp {
 		
 		//close the container
 		((AbstractApplicationContext) context).close();
-
 	}
 }
