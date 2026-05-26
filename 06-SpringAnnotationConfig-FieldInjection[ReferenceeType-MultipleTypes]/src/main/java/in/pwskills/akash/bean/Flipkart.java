@@ -14,6 +14,5 @@ public class Flipkart {
 	public String toString() {
 		return "Flipkart [courier=" + courier + "]";
 	}
-	
-	
+		
 }
