@@ -21,7 +21,6 @@ public class TestApp {
 		System.out.println(flipkart.shopping(new String[] {"fossilwatch","lp belts","arrowshoes"}, 
 						  new float[] {56700.5f,3500.5f,4500.50f}));
 		
-		
 		//close the container
 		((AbstractApplicationContext) context).close();
 
