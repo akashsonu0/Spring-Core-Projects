@@ -6,6 +6,5 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = "in.pwskills.akash")
 public class AppConfig {
 	
-	
  }
 
