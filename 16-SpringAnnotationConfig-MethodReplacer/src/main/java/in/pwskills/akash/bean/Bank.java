@@ -8,6 +8,5 @@ public class Bank {
 		
 		return(pamt * Math.pow(1+rate/100, time))-pamt;
 	}
-	
-	
+		
 }
