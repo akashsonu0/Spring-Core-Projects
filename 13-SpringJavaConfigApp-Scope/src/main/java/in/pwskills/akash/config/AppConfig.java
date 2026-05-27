@@ -12,8 +12,6 @@ import org.springframework.context.annotation.Scope;
 import in.pwskills.akash.bean.Printer;
 import in.pwskills.akash.bean.WishMessageGenerator;
 
-
-
 @Configuration
 public class AppConfig {
 	static {
