@@ -30,5 +30,4 @@ public class AppConfig {
 		employee.setEaddress("MI");
 		return employee;
 	}
-
 }
