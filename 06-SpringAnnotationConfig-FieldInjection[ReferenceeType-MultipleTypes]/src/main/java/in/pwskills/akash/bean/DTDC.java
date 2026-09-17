@@ -6,13 +6,10 @@ import org.springframework.stereotype.Component;
 @Component
 @Primary
 public class DTDC implements ICourier {
-
 	@Override
-	public String deliverOrder(Integer oid) {
-		
+	public String deliverOrder(Integer oid) {	
 		return null;
 	}
-
 	@Override
 	public String toString() {
 		return "DTDC []";
