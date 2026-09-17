@@ -28,7 +28,6 @@ public class AppConfig {
 		
 		//Creating a Target Object
 		Employee employee = new Employee(10, 2345.6f, friends,numbers,accountNumbers);
-		
 		return employee;
 	}
 }
