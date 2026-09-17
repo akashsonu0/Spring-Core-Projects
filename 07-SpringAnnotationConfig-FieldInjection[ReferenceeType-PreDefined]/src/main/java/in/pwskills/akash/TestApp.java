@@ -20,6 +20,5 @@ public class TestApp {
 		daoImpl.getConnection();
 		//close the container
 		((AbstractApplicationContext) context).close();
-
 	}
 }
