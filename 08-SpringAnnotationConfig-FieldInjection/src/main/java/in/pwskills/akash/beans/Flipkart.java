@@ -36,5 +36,4 @@ public class Flipkart {
 		+ Arrays.toString(prices) + 
 		"having billAmount :: "+ billAmount + " :: " + msg;
 	}
-
 }
