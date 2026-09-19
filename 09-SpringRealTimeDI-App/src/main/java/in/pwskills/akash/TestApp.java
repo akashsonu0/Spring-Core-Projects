@@ -18,21 +18,20 @@ public class TestApp {
 		
 		//Reading inputs from the user
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the coustomerName:: ");
+		System.out.print("Enter the coustomerName:: ");
 		String name = scanner.next();
 		
-		System.out.println("Enter the coustomerAddress:: ");
+		System.out.print("Enter the coustomerAddress:: ");
 		String address = scanner.next();
 		
-		System.out.println("Enter the Principal Amount:: ");
+		System.out.print("Enter the Principal Amount:: ");
 		String pamt = scanner.next();
 		
-		System.out.println("Enter the interest:: ");
+		System.out.print("Enter the interest:: ");
 		String rate = scanner.next();
 		
-		System.out.println("Enter the time period:: ");
+		System.out.print("Enter the time period:: ");
 		String time = scanner.next();
-		
 		
 		try {
 			CustomerVo vo = new CustomerVo();
@@ -54,6 +53,5 @@ public class TestApp {
 		//close the container
 		((AbstractApplicationContext) context).close();
 		scanner.close();
-	}
-	
+	}	
 }
