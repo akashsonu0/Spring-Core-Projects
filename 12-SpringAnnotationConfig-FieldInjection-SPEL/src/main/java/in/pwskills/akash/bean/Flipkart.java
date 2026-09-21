@@ -11,6 +11,5 @@ public class Flipkart {
 	@Override
 	public String toString() {
 		return "Flipkart [courier=" + courier + "]";
-	}
-		
+	}		
 }
