@@ -60,7 +60,6 @@ public class TestApp {
 		System.out.println("p2obj==p4obj ? "+(p2obj==p4obj));
 		
 		
-		
 		//close the container
 		((AbstractApplicationContext) context).close();
 	}
