@@ -19,5 +19,6 @@ public class CricketBat {
 	public int scoreRun() {
 		System.out.println("CricketBat.scoreRun()");
 		return new Random().nextInt(200);
+		
 	}
 }
