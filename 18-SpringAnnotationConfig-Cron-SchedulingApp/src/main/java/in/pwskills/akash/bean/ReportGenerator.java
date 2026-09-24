@@ -14,9 +14,7 @@ public class ReportGenerator {
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
-		
 		//batch processing code U can write here
 		System.out.println("Sales Report on ::" + new Date());
 	}
-
 }
