@@ -18,5 +18,4 @@ public class ReportGenerator {
 		//batch processing code U can write here
 		System.out.println("Sales Report on ::" + new Date());
 	}
-
 }
