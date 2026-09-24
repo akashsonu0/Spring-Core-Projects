@@ -16,9 +16,7 @@ public class TestApp {
 		Bank bank = context.getBean(Bank.class);
 		System.out.println(bank.calculateCompoundInterest(100000, 2, 12));
 		
-		
 		//close the container
 		((AbstractApplicationContext) context).close();
-
 	}
 }
