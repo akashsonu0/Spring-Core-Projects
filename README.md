@@ -17,52 +17,52 @@ This repository showcases my exploration of **Spring Core fundamentals**, includ
 
 The repository is organized into the following modules:
 
-### 1. **01-SpringJavaConfigApp-referenceType**
+### 1. SpringJavaConfigApp-referenceType**
 Demonstrates **constructor injection** using Java-based configuration.
 
-### 2. **02-SpringJavaConfigApp-referenceType[HAS-A]**
+### 2. SpringJavaConfigApp-referenceType[HAS-A]**
 Illustrates **setter injection** with a `HAS-A` relationship.
 
-### 3. **03-SpringJavaConfigApp-referenceType[HAS-A-CollectionType]**
+### 3. SpringJavaConfigApp-referenceType[HAS-A-CollectionType]**
 Shows how to inject **collections** into beans.
 
-### 4. **04-SpringAnnotationConfig-FieldInjection**
+### 4. SpringAnnotationConfig-FieldInjection**
 Utilizes **field injection** with annotations.
 
-### 5. **05-SpringAnnotationConfig-FieldInjection[ReferenceeType]**
+### 5. SpringAnnotationConfig-FieldInjection[ReferenceeType]**
 Demonstrates field injection with **reference types**.
 
-### 6. **06-SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]**
+### 6. SpringAnnotationConfig-FieldInjection[ReferenceeType-MultipleTypes]**
 Explores field injection with **multiple reference types**.
 
-### 7. **07-SpringAnnotationConfig-SetterInjection**
+### 7. SpringAnnotationConfig-SetterInjection**
 Applies **setter injection** using annotations.
 
-### 8. **08-SpringAnnotationConfig-SetterInjection[ReferenceeType]**
+### 8. SpringAnnotationConfig-SetterInjection[ReferenceeType]**
 Shows setter injection with **reference types**.
 
-### 9. **09-SpringAnnotationConfig-SetterInjection[ReferenceeType-MultipleTypes]**
+### 9. SpringAnnotationConfig-SetterInjection[ReferenceeType-MultipleTypes]**
 Demonstrates setter injection with **multiple reference types**.
 
-### 10. **10-SpringAnnotationConfig-ConstructorInjection**
+### 10. SpringAnnotationConfig-ConstructorInjection**
 Uses **constructor injection** with annotations.
 
-### 11. **11-SpringAnnotationConfig-ConstructorInjection[ReferenceeType]**
+### 11. SpringAnnotationConfig-ConstructorInjection[ReferenceeType]**
 Applies constructor injection with **reference types**.
 
-### 12. **12-SpringAnnotationConfig-ConstructorInjection[ReferenceeType-MultipleTypes]**
+### 12. SpringAnnotationConfig-ConstructorInjection[ReferenceeType-MultipleTypes]**
 Shows constructor injection with **multiple reference types**.
 
-### 13. **13-SpringAnnotationConfig-BeanScopes**
+### 13. SpringAnnotationConfig-BeanScopes**
 Explores different **bean scopes**: singleton, prototype, etc.
 
-### 14. **14-SpringAnnotationConfig-DependencyLookup**
+### 14. SpringAnnotationConfig-DependencyLookup**
 Demonstrates **dependency lookup** using `ApplicationContext`.
 
-### 15. **15-SpringAnnotationConfig-MethodReplacer**
+### 15. SpringAnnotationConfig-MethodReplacer**
 Shows how to use **method replacers** in Spring.
 
-### 16. **16-SpringAnnotationConfig-Scheduling**
+### 16. SpringAnnotationConfig-Scheduling**
 Applies **scheduling** tasks using annotations.
 
 ---
